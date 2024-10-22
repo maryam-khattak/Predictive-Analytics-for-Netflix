@@ -10,7 +10,7 @@ This project leverages advanced machine learning techniques to develop an AI-pow
 **Technologies Used:**  
 • **Languages**: Python  
 • **Libraries**: TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib  
-• **Tools**: Power BI, Google Colab, GitHub  
+• **Tools**: Power BI, Google Colab, GitHub, Microsoft Project 
 
 **Benefits:**  
 This forecasting system provides valuable insights for Netflix's marketing strategies, content development, and financial planning, ultimately aiming to optimize subscriber engagement and enhance overall performance.
