@@ -8,7 +8,7 @@ This project leverages advanced machine learning techniques to develop an AI-pow
 • **Comprehensive Analysis**: Conducts exploratory data analysis (EDA) to identify key factors influencing subscriber retention and growth, utilizing data analytics best practices.  
 
 **Technologies Used:**  
-• **Languages**: Python, R  
+• **Languages**: Python  
 • **Libraries**: TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib  
 • **Tools**: Power BI, Google Colab, GitHub  
 
